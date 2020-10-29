@@ -65,6 +65,9 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Lead
+
+authors:
+- crmain
 ---
 
 I am an environmental scientist with the state of Delaware for the Department of Natural Resources and Environmental Control, in the Environmental Laboratory Section.  I'm interested in the microbial world, in regards to how algae and bacteria interact in the aquatic environment.  I use molecular and statistical techniques to gain a better understanding of the microbial community.
