@@ -11,7 +11,7 @@ role: Environmental Scientist
 # Organizations/Affiliations
 organizations:
 - name: Delaware Department of Natural Resources and Environmental Control
-  url: ""
+  url: "http://dnrec.delaware.gov"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -57,5 +57,8 @@ highlight_name: true
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Analysts
+
+authors:
+- cmmitchell
 ---
 
